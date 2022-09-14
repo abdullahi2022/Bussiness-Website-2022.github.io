@@ -5,7 +5,7 @@
 
 - <hyphen>
 
-## Reminders
+# Reminders
 - None yet
 Creating a check list
 - [] this is an example checkbox
@@ -18,9 +18,9 @@ Creating a check list
 
 ---
 
-### To do list
-- Create a To Do List
--Add more items from the paper
+# To do list
+- [x] <del> Create a To Do List [x] <del>
+- [ ]Add more items from the paper
 
 ---
 
