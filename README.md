@@ -20,7 +20,8 @@ Creating a check list
 
 # To do list
 - [x] <del> Create a To Do List [x] <del>
-- [ ]Add more items from the paper
+- [ ] Add more items from the paper
+- [ ] Upload the To do list and the website design here
 
 ---
 
