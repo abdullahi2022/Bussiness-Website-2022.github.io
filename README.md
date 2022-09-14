@@ -3,7 +3,7 @@
  creating a bussiness website (beginner)
 
 
-Reminders
+##Reminders
 
 
-To do list
+###To do list
