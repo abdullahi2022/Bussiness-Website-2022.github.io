@@ -6,9 +6,11 @@
 ## Reminders
 - None yet
 
+---
+
 ### To do list
 - Create a To Do List
 -Add more items from the paper
 
-
+---
 
