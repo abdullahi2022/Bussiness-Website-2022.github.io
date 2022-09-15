@@ -27,22 +27,21 @@ Creating a check list
 
 Bussiness Website
 
-Title = Abdullahi 
-
 ## Abdullahi Osman
 
 # Grilled Chicken 
 - [ ] Size 
-// <p style="padding: 10px; border: 2px solid red;">Half footlong</p>
-// <p style="padding: 10px; border: 2px solid red;">footlong</p>
-
-<label for="Size">Size:</label>
-<input type="text" id="Name" name="Name" placeholder="Half Footlong">
-
-- [ ] protein 
+- <hyphen> Half footlong 6"
+- <hyphen> Footlong 12"
 
 - [ ] Bread 
-
+- <hyphen> Toasted Multigrain
+- <hyphen> Toasted Classic Italian 
+- <hyphen> Toasted Classic Italian Herbs & Cheese
+- <hyphen> Toasted Flatbread
+- [ ] protein 
+- <hyphen> Grilled Chicken 
+REGULAR                 DOUBLE MEAT #### +$4.20
 - [ ] Cheese 
 
 - [ ] Veggies 
