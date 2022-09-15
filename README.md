@@ -31,12 +31,14 @@ Title = Abdullahi
 
 ## Abdullahi Osman
 
-# Crispy Chicken Sandwich
+# Grilled Chicken 
 - <hyphen>Size </hyphen>
 <p style="padding: 10px; border: 2px solid red;">Half footlong</p>
 <p style="padding: 10px; border: 2px solid red;">footlong</p>
 
 - <hyphen>protein </hyphen>
+
+- <hyphen>Bread </hyphen>
 
 - <hyphen>Cheese </hyphen>
 
@@ -44,7 +46,7 @@ Title = Abdullahi
 
 - <hyphen>Sauces </hyphen>
 
-- <hyphen>Size </hyphen>
+- <hyphen>Seasoning </hyphen>
 
 - <hyphen>Extra </hyphen>
 
