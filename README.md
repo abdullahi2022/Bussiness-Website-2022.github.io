@@ -33,6 +33,8 @@ Title = Abdullahi
 
 # Crispy Chicken Sandwich
 - <hyphen>Size </hyphen>
+<p style="padding: 10px; border: 2px solid red;">Half footlong</p>
+<p style="padding: 10px; border: 2px solid red;">footlong</p>
 
 - <hyphen>protein </hyphen>
 
