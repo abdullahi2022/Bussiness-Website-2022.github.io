@@ -41,9 +41,12 @@ Bussiness Website
 - <hyphen> Toasted Flatbread
 - [ ] protein 
 - <hyphen> Grilled Chicken 
-REGULAR                 DOUBLE MEAT #### +$4.20
+- <hyphen> REGULAR                 
+- <hyphen> DOUBLE MEAT +$2.50
 - [ ] Cheese 
-
+- <hyphen> Proccessed Cheddar
+- <hyphen> Shredded Monterey Cheddar
+- <hyphen> Canadian Cheddar
 - [ ] Veggies 
 
 - [ ] Sauces 
