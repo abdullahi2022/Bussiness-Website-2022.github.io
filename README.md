@@ -40,7 +40,7 @@ Bussiness Website
 - <hyphen> Toasted Classic Italian Herbs & Cheese
 - <hyphen> Toasted Flatbread
 - [ ] protein 
-- <hyphen> Grilled Chicken 
+* Grilled Chicken 
 - <hyphen> REGULAR                 
 - <hyphen> DOUBLE MEAT +$2.50
 - [ ] Cheese 
