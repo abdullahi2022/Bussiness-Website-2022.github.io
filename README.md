@@ -48,9 +48,20 @@ Bussiness Website
 - <hyphen> Shredded Monterey Cheddar
 - <hyphen> Canadian Cheddar
 - [ ] Veggies 
-
+* Proccessed Cheddar
+* Shredded Monterey Cheddar
+* Canadian Cheddar
 - [ ] Sauces 
-
+* Lettuce 
+* Spinach
+* Tomatoes
+* Cucumbers
+* Green Peppers
+* Red onions 
+* Pickles
+* Black olives
+* Jalapenos 
+* Banana peppers
 - [ ] Seasoning 
 
 - [ ] Extra 
