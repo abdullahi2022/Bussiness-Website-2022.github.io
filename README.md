@@ -36,9 +36,8 @@ Title = Abdullahi
 <p style="padding: 10px; border: 2px solid red;">Half footlong</p>
 <p style="padding: 10px; border: 2px solid red;">footlong</p>
 
-<label for="Size">Size:</label>
-<input type="text" id="Size" Size="Name" placeholder="Half Footlong">
-
+<label for="Name">Name:</label>
+<input type="text" id="Name" name="Name" placeholder="Half Footlong">
 
 - <hyphen>protein </hyphen>
 
