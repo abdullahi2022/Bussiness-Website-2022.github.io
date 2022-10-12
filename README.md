@@ -1,70 +1,34 @@
-# Bussiness Website 
-(Promotion wesbite)
- creating a bussiness website (beginner)
-
-
-- <hyphen>
-
-# Reminders
-- None yet
-Creating a check list
+Progressions (so far), see above link for full explanation and for working ahead
 - [] this is an example checkbox
 - [x] this is a checked box
-- [x] this is a crossed out item
-- <del> [x] this is a crossed out item hat looks odd</del>
-- [x] <del> this is a crossed out item that looks better </del>
 
 
 
----
+Review Expectations and Rubric
+- []Create Repository with Public-Facing Website (Private is possible, see Mr. Mercer)
+- []Reminder: github.io must be in name
+-[] Open in Atom
+- Add index.html
+-[] Ensure Update in GitHub Desktop
+- []Visually check GitHub
+- []Enable GitHub Pages: Settings / Pages / Change None to Main / Save
+- []Open the Publicly Facing Website to ensure Hello World is visually there
+- []Create Folders and File Structure in Visual Code Studio
+- []childPages / childTemplate.html
+-[] Images / ReadMe.txt
+- []Videos / ReadMe.txt
+- []Media / ReadMe.txt
+-[] Misc / ReadMe.txt
+-[] Create the metadata for the index.html & childTemplate.html
+- []Create Semantic HTML Tags for the Body of the index.html & childTemplate.html
+- []Create Footer (i.e. quote and "Powered By" with special symbols)
+-[] Create all content you own for all pages (i.e. information about you or you topic, see Who Am I suggestions)
+-[] Choose your DIV-Layout, and include your Flexbox Style within the <head></head> of index.html & childPages/childTemplate.html
+[] Activate the DIV-Tags to view how these layout in your Website (i.e. flexbox) overall
+-[] Add some text and adjust your viewport, if necessary
+-[] Begin to add content (Text, Hyperlinks, Images, Videos, Audio, and other media)
+- []Specific to Hyperlinks: adjust the navigation (i.e. how browser tabs are handles | i.e. target="_blank")
 
-# To do list
-- [x] <del> Create a To Do List [x] <del>
-- [ ] Add more items from the paper
-- [ ] Upload the To do list and the website design here
-
----
-
-Bussiness Website
-
-## Abdullahi Osman
-
-# Grilled Chicken 
-- [ ] Size 
-- <hyphen> Half footlong 6"
-- <hyphen> Footlong 12"
-
-- [ ] Bread 
-- <hyphen> Toasted Multigrain
-- <hyphen> Toasted Classic Italian 
-- <hyphen> Toasted Classic Italian Herbs & Cheese
-- <hyphen> Toasted Flatbread
-- [ ] protein 
-* Grilled Chicken 
-- <hyphen> REGULAR                 
-- <hyphen> DOUBLE MEAT +$2.50
-- [ ] Cheese 
-- <hyphen> Proccessed Cheddar
-- <hyphen> Shredded Monterey Cheddar
-- <hyphen> Canadian Cheddar
-- [ ] Veggies 
-* Proccessed Cheddar
-* Shredded Monterey Cheddar
-* Canadian Cheddar
-- [ ] Sauces 
-* Lettuce 
-* Spinach
-* Tomatoes
-* Cucumbers
-* Green Peppers
-* Red onions 
-* Pickles
-* Black olives
-* Jalapenos 
-* Banana peppers
-- [ ] Seasoning 
-
-- [ ] Extra 
 
 
 
