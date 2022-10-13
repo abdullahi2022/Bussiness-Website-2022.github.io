@@ -1,0 +1,53 @@
+a {font-size:3vw;}
+div {border: thin dotted red;}
+div {border: thin dotted rgb(0, 255, 4);}
+
+
+<style>
+            * {
+                box-sizing: border-box;
+                font-size:2vw;
+            }
+
+            div {border: thin dotted red;}
+
+            .header {
+                border: 1px solid green;
+                padding: 15px;
+            }
+
+            .menu {
+                width: 25%;
+                float: left;
+                padding: 15px;
+                border: 1px solid blue;
+            }
+
+            .main {
+                width: 50%;
+                float: left;
+                padding: 15px;
+                border: 1px solid blue;
+            }
+
+            .aside {
+                width: 25%;
+                float: left;
+                padding: 15px;
+                border: 1px solid blue;
+            }
+
+            .footer {}
+
+body {
+
+
+background-Image: url('https://images.theconversation.com/files/393210/original/file-20210401-13-z6rl6z.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=900.0&fit=crop');
+background-repeat: no-repeat; 
+background-attachment:fixed; 
+background-size: cover;
+
+
+}
+
+  

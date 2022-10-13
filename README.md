@@ -20,9 +20,8 @@ Review Expectations and Rubric
 - [x]Media / ReadMe.txt
 -[x] Misc / ReadMe.txt
 -[x] Create the Who Am I for the index.html & childTemplate.html
--[] Begin to add content (Text, Hyperlinks, Images, Videos, Audio, and other media)
-- []Specific to Hyperlinks: adjust the navigation (i.e. how browser tabs are handles | i.e. target="_blank")
-
+- [] reason why you should  you to alberta webpage
+- [] opportunites in Alberta
 
 
 
