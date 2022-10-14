@@ -20,8 +20,10 @@ Review Expectations and Rubric
 - [x]Media / ReadMe.txt
 -[x] Misc / ReadMe.txt
 -[x] Create the Who Am I for the index.html & childTemplate.html
-- [] reason why you should  you to alberta webpage
-- [] opportunites in Alberta
+- [x] reason why you should  you to alberta webpage
+- [x] opportunites in Alberta
+- [x] reasons why you should move to alberta
+- [x] attraction places in Alberta and Edmonton to visit
 
 
 
